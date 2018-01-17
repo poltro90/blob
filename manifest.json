@@ -1,0 +1,19 @@
+{
+  "name": "Blob",
+  "short_name": "Blob",
+  "start_url": "../../",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "It's replicating!",
+  "lang": "en-US",
+  "orientation": "portrait",
+  "theme_color": "#fff",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "200x200",
+    "type": "image/png"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }]
+}
