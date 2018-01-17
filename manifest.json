@@ -1,7 +1,7 @@
 {
   "name": "Blob",
   "short_name": "Blob",
-  "start_url": "../../",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#fff",
   "description": "It's replicating!",
